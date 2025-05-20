@@ -1,0 +1,57 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`SummaryToggle Component matches snapshot for default state 1`] = `
+<div>
+  <div
+    class="MuiToggleButtonGroup-root MuiToggleButtonGroup-horizontal css-951ssr-MuiToggleButtonGroup-root"
+    role="group"
+  >
+    <button
+      aria-pressed="false"
+      class="MuiButtonBase-root MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal MuiToggleButton-root MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-firstButton css-1y5lsam-MuiButtonBase-root-MuiToggleButton-root"
+      tabindex="0"
+      type="button"
+      value="my-summaries"
+    >
+      My Summaries
+    </button>
+    <button
+      aria-pressed="false"
+      class="MuiButtonBase-root MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal MuiToggleButton-root MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-lastButton css-1y5lsam-MuiButtonBase-root-MuiToggleButton-root"
+      tabindex="0"
+      type="button"
+      value="shared-summaries"
+    >
+      Shared Summaries
+    </button>
+  </div>
+</div>
+`;
+
+exports[`SummaryToggle Component matches snapshot for toggled state 1`] = `
+<div>
+  <div
+    class="MuiToggleButtonGroup-root MuiToggleButtonGroup-horizontal css-951ssr-MuiToggleButtonGroup-root"
+    role="group"
+  >
+    <button
+      aria-pressed="false"
+      class="MuiButtonBase-root MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal MuiToggleButton-root MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-firstButton css-1y5lsam-MuiButtonBase-root-MuiToggleButton-root"
+      tabindex="0"
+      type="button"
+      value="my-summaries"
+    >
+      My Summaries
+    </button>
+    <button
+      aria-pressed="false"
+      class="MuiButtonBase-root MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal MuiToggleButton-root MuiToggleButton-sizeMedium MuiToggleButton-standard MuiToggleButtonGroup-lastButton css-1y5lsam-MuiButtonBase-root-MuiToggleButton-root"
+      tabindex="0"
+      type="button"
+      value="shared-summaries"
+    >
+      Shared Summaries
+    </button>
+  </div>
+</div>
+`;

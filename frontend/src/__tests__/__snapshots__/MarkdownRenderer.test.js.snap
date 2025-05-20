@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MarkdownRenderer Component matches the snapshot for complex Markdown content 1`] = `
+<DocumentFragment>
+  <div
+    data-testid="react-markdown"
+  >
+    
+# Heading 1
+
+This is a paragraph with **bold** and *italic* text.
+
+\`\`\`js
+console.log("Hello, world!");
+\`\`\`
+
+- Item 1
+- Item 2
+- Item 3
+
+| Header 1 | Header 2 |
+|----------|----------|
+| Cell 1   | Cell 2   |
+
+  </div>
+</DocumentFragment>
+`;
