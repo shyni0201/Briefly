@@ -2,10 +2,6 @@
 
 Briefly is a summarization tool designed to help users summarize code, research papers, and documentation efficiently. The application allows users to create, share, and manage summaries seamlessly.
 
-## Video Demo
-
-Link to the video demo can be found [here](https://drive.google.com/file/d/1YHdMjPdJvhQ8gf_kovTG7VFG6a1UuPlk/view?usp=sharing).
-
 ## Features
 
 - **User Authentication**: Secure login and registration for users.
